@@ -11,3 +11,6 @@ kafka-topics.sh --create --zookeeper  localhost:2181 --replication-factor 1 --pa
 	Note : Please use cluster name in case if you are using kafka cluster
 	
 4. Update your application.properties accordingly if you are using different topic mame and host name
+
+
+ 
