@@ -1,5 +1,7 @@
 # structure-streaming-join
 
+
+
 Steps to follow to run this POC
 
 1. Run Kafka Zookeeper
@@ -9,5 +11,3 @@ Steps to follow to run this POC
 	
 4. Update your application.properties accordingly if you are using different topic mame and host name
 
-
- 
